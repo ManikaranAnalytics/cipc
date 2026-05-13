@@ -91,11 +91,12 @@ WHATSAPP_DOC_URL = "https://gate.whapi.cloud/messages/document"
 WHATSAPP_GROUP_ID = "120363404188496282@g.us"
 WHATSAPP_AUTH = "Bearer UhMontkZC8KY8WBLgcrH7kz6HYXlntsZ"
 
-# Email Configuration (for checking GDAM files)
+
+#EMAIL CONFIG
 EMAIL_HOST = "mx1.50hertz.in"
-EMAIL_USER = "headops@manikarananalytics.in"
-EMAIL_PASSWORD = "anltics$con2in"
-EMAIL_IMAP_PORT = 993  # IMAP SSL port (SMTP 465 is for sending)
+EMAIL_USER = "autom@manikarananalytics.in"
+EMAIL_PASSWORD = "P3OKVUM6P2LTTLPV"
+EMAIL_IMAP_PORT = 993
 
 # State file to track last processed revisions.
 # Resolve it relative to this script so cron and local runs use the same file.
